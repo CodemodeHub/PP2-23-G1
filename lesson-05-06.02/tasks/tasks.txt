@@ -1,0 +1,20 @@
+1) datetime exercises:
+    a. Write a program to get the current date and time and print it.
+    b. Write a program to get the current year, month and day.
+    c. Write a program to calculate the number of days between two dates.
+    d. Write a program to find the difference between two dates in seconds.
+    e. Write a program to format a date and time to a specified string format.
+
+2) math exercises:
+    a. Write a program to find the square root of a number.
+    b. Write a program to find the ceiling and floor of a number.
+    c. Write a program to find the absolute value of a number.
+    d. Write a program to calculate the sin, cos and tan of an angle.
+    e. Write a program to find the logarithm of a number to a specified base.
+
+3) Iterator exercises:
+    a. Write a program to create a custom iterator that yields the Fibonacci sequence.
+    b. Write a program to create an iterator that yields the first n elements of a list.
+    c. Write a program to create an iterator that yields the squares of the numbers in a list.
+    d. Write a program to create an iterator that yields the unique elements of a list.
+    e. Write a program to create an iterator that yields the elements of a list in reverse order.
