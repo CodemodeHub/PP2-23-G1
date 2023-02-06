@@ -5,5 +5,6 @@ def generator(n: int):
         yield i ** 2
 
 a = generator(5)
+print(type(a))
 for i in a:
     print(i, end=" ")
